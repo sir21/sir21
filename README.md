@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Sasitha Iresh(@sir21)
+
+Software engineer who enjoys creating new things and challenging myself by learning and using exciting technologies.
+
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
